@@ -1,6 +1,6 @@
 ---
 title: Music
-subtitle: The musical manifestations of my work
+subtitle: The Musical Manifestations of my Work
 layout: "page"
 icon: fa-music
 order: 4
