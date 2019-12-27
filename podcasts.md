@@ -8,4 +8,3 @@ order: 5
 
 Placeholder for info about podcasts I've been featured on
 
-{%- include social_icons.html -%}

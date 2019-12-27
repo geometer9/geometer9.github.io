@@ -8,4 +8,3 @@ order: 6
 
 Placeholder for info about my appearances
 
-{%- include social_icons.html -%}

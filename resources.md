@@ -8,4 +8,3 @@ order: 7
 
 Placeholder for recommendations
 
-{%- include social_icons.html -%}
