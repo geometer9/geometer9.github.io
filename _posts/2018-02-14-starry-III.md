@@ -3,12 +3,7 @@ title: Starry Wisdom and the Left Hand Path, Part III
 layout: post
 ---
 
-<a target="_blank" href="https://infernalgeometry.com/2017/12/06/starry-I.html">Part   I</a>
-
-<a target="_blank" href="https://infernalgeometry.com/2017/12/09/starry-II.html">Part   II</a>
-
-
-<a target="_blank" href="https://infernalgeometry.com/2018/02/19/starry-IV.html">Part   IV</a>
+<a target="_blank" href="https://infernalgeometry.com/2017/12/06/starry-I.html">Part I</a> <a target="_blank" href="https://infernalgeometry.com/2017/12/09/starry-II.html">Part II</a> <a target="_blank" href="https://infernalgeometry.com/2018/02/19/starry-IV.html">Part IV</a>
 
 The symbolism attached to the patterns of the night sky, the constellations and asterisms, are a means of encoding learning and myth, and spurring new insights into the workings of the cosmos and how the Self relates to it. Since the 1960s and the computer analysis done on the alignments of Stonehenge by Dr. Gerald Hawkins of Boston University, many of our previously accepted timelines of human development have been challenged in a new field called archeo-astronomy. This in turn reinforces the idea that the more we understand the cosmos and humanity’s place within it, and how and when certain insights were gained in our intellectual history, the more opportunity there is for applying the insights gained from study of the heavens to one’s own development and understanding. 
 
@@ -28,6 +23,6 @@ Compare this aspect of the pharaoh as the agent of the gods on earth, the bridge
 
 The 19th and 20th Dynasties (spanning 200 years beginning ca. 1300 BCE), were those dominated by royal families who were loyal to the god Set. The pharaohs of these dynasties were especially interested in Starry Wisdom: one of the defining features of the funerary practices of the Setian dynasties is that of the astronomical ceiling, of which the most famous of those still intact is from the tomb of Seti I.
 
-<img src="/assets/images/starry-seti.jpg">
+![](/assets/images/starry-seti.jpg)
 
 The astronomical ceilings functioned as maps for the pharaoh’s _akh_, or active essence, to become a star and find its way to its place in the heavens as one of the _neteru_ (that is, the gods). This transformation is also told of in a story that dates from the time of Seti II, called “The Tale of Two Brothers”. In this tale, a farmer named Bata undergoes a series of ordeals and metamorphoses which culminate in his transformation into a star in the Big Dipper.
