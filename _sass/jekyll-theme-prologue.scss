@@ -89,7 +89,7 @@
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
-		text-decoration: none;
+		text-decoration: none; 
 
 		strong {
 			color: #333;
@@ -127,7 +127,7 @@
 	}
 
 	a {
-		text-decoration: none;
+		text-decoration: none; 
 		color: inherit;
 		border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
 		@include vendor('transition', ('color 0.35s ease-in-out', 'border-bottom-color 0.35s ease-in-out'));
@@ -214,6 +214,14 @@
 		&:last-child,
 		> .container > :last-child {
 			margin-bottom: 0;
+                        header {
+                          text-align: center;
+                        }
+                        a { 
+                          text-decoration: underline; 
+                          text-decoration-color: #066dfa; 
+                          text-decoration-style: solid;
+                        }
 		}
 
 		.row > & {
@@ -643,7 +651,15 @@
 	#main {
 		margin-left: 375px;
 		> section {
+                        header {
+                          text-align: center;
+                        }
 			text-align: left;
+                        a { 
+                          text-decoration: underline; 
+                          text-decoration-color: #066dfa; 
+                          text-decoration-style: solid;
+                        }
 		}
 		> article {
 			text-align: left;
