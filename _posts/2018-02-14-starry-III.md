@@ -3,6 +3,13 @@ title: Starry Wisdom and the Left Hand Path, Part III
 layout: post
 ---
 
+<a target="_blank" href="https://infernalgeometry.com/2017/12/06/starry-I.html">Part   I</a>
+
+<a target="_blank" href="https://infernalgeometry.com/2017/12/09/starry-II.html">Part   II</a>
+
+
+<a target="_blank" href="https://infernalgeometry.com/2018/02/19/starry-IV.html">Part   IV</a>
+
 The symbolism attached to the patterns of the night sky, the constellations and asterisms, are a means of encoding learning and myth, and spurring new insights into the workings of the cosmos and how the Self relates to it. Since the 1960s and the computer analysis done on the alignments of Stonehenge by Dr. Gerald Hawkins of Boston University, many of our previously accepted timelines of human development have been challenged in a new field called archeo-astronomy. This in turn reinforces the idea that the more we understand the cosmos and humanity’s place within it, and how and when certain insights were gained in our intellectual history, the more opportunity there is for applying the insights gained from study of the heavens to one’s own development and understanding. 
 
 There is an inherent power that comes from being able to advise rulers and predict celestial events through careful study of the cycles that govern human behavior.
