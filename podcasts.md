@@ -25,6 +25,13 @@ I've appeared twice on the Church of Mabus radio show, with the most recent once
 
 <a target="_blank" href="http://khprvod.org">KHPR</a> was the "in house" podcast of the Temple of Set. My second appearance, shortly after my appointment as the seventh Grandmaster of the Order of the Trapezoid, resulted in <a target="_blank" href="http://khprvod.org/2016/08/khpr-013-the-order-of-the-trapezoid/">this interview</a>
 
+### EscapePod/ Pseudopod
+
+My music has been used twice on podcasts in the <a target="_blank" href="http://pseudopod.org">Pseudopod</a> family, a group of podcasts that focus on short fiction in various genres.
+
+* Atmospherics and other sounds in <a target="_blank" href="http://pseudopod.org/2010/10/01/pseudopod-206-flash-on-the-borderlands-iv/">"The Shadow's Bride"</a>
+* Music for <a target="_blank" href="http://escapepod.org/2005/10/27/ep025-the-great-old-pumpkin/">"The Great Old Pumpkin"</a>
+
 
 
 

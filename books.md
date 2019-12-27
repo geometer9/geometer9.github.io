@@ -1,5 +1,5 @@
 ---
-title: Books
+title: My Books
 subtitle: Things That Go Thud on the Table
 layout: "page"
 icon: fa-book
