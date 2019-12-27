@@ -21,4 +21,8 @@
   {%- if site.email -%}
   <li><a target="_blank" href="mailto:{{- site.email -}}" class="icon fa-envelope"><span class="label">Email</span></a></li>
   {%- endif -%}
+  {%- if site.feed_url -%}
+  <li><a target="_blank" href="{{- site.feed_url -}}" class="icon fa-rss"><span class="label">Feed</span></a></li>
+  {%- endif -%}
+
 </ul>

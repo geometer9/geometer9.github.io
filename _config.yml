@@ -49,10 +49,13 @@ facebook_url: https://www.facebook.com/TobyChappellAuthor/
 github_url:
 bandcamp_url1: https://eyesofligeia.bandcamp.com
 bandcamp_url2: https://misdreamt.bandcamp.com
-tumblr_url: https://stonyrubbish.tumblr.com
+feed_url: https://infernalgeometry.com/feed.xml
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-154992770-1
+
+plugins:
+  - jekyll-feed
 
 # The following settings are NECESSARY for the Prologue theme to run:
 #theme: jekyll-theme-prologue
