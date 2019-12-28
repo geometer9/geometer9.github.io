@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-
+<center>
 ![Infernal Geometry and the Left-Hand Path](/assets/images/infernalgeometry.jpg)
 
 <font size="-1">
