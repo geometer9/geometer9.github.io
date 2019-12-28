@@ -6,13 +6,15 @@ icon: fa-book
 order: 3
 ---
 
+<header>
+
 ![Infernal Geometry and the Left-Hand Path](/assets/images/infernalgeometry.jpg)
 
 <font size="-1">
 Available online and in stores: <a target="_blank" href="https://www.amazon.com/Infernal-Geometry-Left-Hand-Path-Magical/dp/1620558165/">Amazon</a> | <a target="_blank" href="https://www.barnesandnoble.com/w/infernal-geometry-and-the-left-hand-path-toby-chappell/1129099200">Barnes and Noble</a> | <a target="_blank" href="https://www.booksamillion.com/p/Infernal-Geometry-Left-Hand-Path/Toby-Chappell/9781620558164">Books-A-Million</a>
 </font>
 
-
+</header>
 ----
 
 <a target="_blank" href="https://www.innertraditions.com/books/infernal-geometry-and-the-left-hand-path">_Infernal Geometry and the Left-Hand Path_</a> (Inner Traditions, 2019) provides an in-depth look at the history and practice of angular magic in the <a target="_blank" href="https://www.amazon.com/Church-Satan-Text-Plates/dp/1494447339/">early Church of Satan</a> (1966-1975) and the <a target="_blank" href="https://xeper.org">Temple of Set</a> (1975-present). While the roots of angular magic are deeply embedded in the human perceptual apparatus, the overt appearance of this form of magic can be traced to Anton LaVey's magical principle called the Law of the Trapezoid.
