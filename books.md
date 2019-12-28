@@ -8,12 +8,12 @@ order: 3
 
 <header>
 
-<img alt="Infernal Geometry and the Left-Hand Path" src="/assets/images/infernalgeometry.jpg">
+<center><img alt="Infernal Geometry and the Left-Hand Path" src="/assets/images/infernalgeometry.jpg">
 
 <font size="-1">
 Available online and in stores: <a target="_blank" href="https://www.amazon.com/Infernal-Geometry-Left-Hand-Path-Magical/dp/1620558165/">Amazon</a> | <a target="_blank" href="https://www.barnesandnoble.com/w/infernal-geometry-and-the-left-hand-path-toby-chappell/1129099200">Barnes and Noble</a> | <a target="_blank" href="https://www.booksamillion.com/p/Infernal-Geometry-Left-Hand-Path/Toby-Chappell/9781620558164">Books-A-Million</a>
 </font>
-
+</center>
 </header>
 ----
 
