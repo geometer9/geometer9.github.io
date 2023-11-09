@@ -3,7 +3,7 @@ title: Appearances
 subtitle: Opportunities for Lectures and/or Workshops
 layout: "page"
 icon: fa-university
-order: 6
+order: 7
 ---
 
 ## Future

@@ -3,7 +3,7 @@ title: Music
 subtitle: The Musical Manifestations of my Work
 layout: "page"
 icon: fa-music
-order: 4
+order: 5
 ---
 
 ### Eyes of Ligeia

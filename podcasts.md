@@ -3,7 +3,7 @@ title: Podcasts
 subtitle: Past and Upcoming Online Appearances
 layout: "page"
 icon: fa-podcast
-order: 5
+order: 6
 ---
 
 I've been on a number of podcasts over the years, not all of which are still online. Here is but a sample of these appearances, hitting some of the highlights of the different topics I've touched on.
